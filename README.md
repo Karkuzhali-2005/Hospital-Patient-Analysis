@@ -1,4 +1,4 @@
-# 🏥 Hospital Patient Analysis Dashboard
+# Hospital Patient Analysis Dashboard
 
 ## 📌 Project Overview
 
@@ -131,8 +131,6 @@ The dashboard helps identify patterns related to:
 - Bed utilization
 - Admission trends
 
----
-
 ## 🔄 Dashboard Features
 
 - Interactive visualizations
@@ -146,12 +144,4 @@ The dashboard helps identify patterns related to:
 
 ---
 
-## 👨‍💻 Author
-
-**Mukesh Kumar G**
-
-B.E. Electronics and Communication Engineering
-
----
-
-⭐ **If you find this project useful, consider giving the repository a star!**
+⭐ **If you find this project useful, consider giving the reposit
